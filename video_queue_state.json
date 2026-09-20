@@ -1,0 +1,858 @@
+{
+    "job_1786829310": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "assembling",
+        "created_at": 1786829310.9907792,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1787515593.8370874,
+        "updated_at": 1787515593.8370874
+    },
+    "job_1786829362": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1786829362.7305968
+    },
+    "job_1786830846": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "audio_visuals",
+        "created_at": 1786830846.670974,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1787515593.8370874,
+        "updated_at": 1787515593.8370874
+    },
+    "job_1786831121": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "audio_visuals",
+        "created_at": 1786831121.3567822,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1787515593.8370874,
+        "updated_at": 1787515593.8370874
+    },
+    "job_1786831247": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "audio_visuals",
+        "created_at": 1786831247.0101035,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1787515593.8370874,
+        "updated_at": 1787515593.8370874
+    },
+    "job_1786831356": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "audio_visuals",
+        "created_at": 1786831356.018319,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1787515593.8370874,
+        "updated_at": 1787515593.8370874
+    },
+    "job_1786831414": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1786831414.3913996
+    },
+    "job_1786832741": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1786832741.1278923
+    },
+    "job_1786840236": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "audio_visuals",
+        "created_at": 1786840236.1476038,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1787515593.8370874,
+        "updated_at": 1787515593.8370874
+    },
+    "job_1786840425": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1786840425.378303
+    },
+    "job_1786872628": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1786872628.9333084
+    },
+    "job_1786877696": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1786877696.2585576
+    },
+    "job_1786883439": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1786883439.3122773
+    },
+    "job_1786894271": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "audio_visuals",
+        "created_at": 1786894271.836354,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1787515593.8370874,
+        "updated_at": 1787515593.8370874
+    },
+    "job_1786894883": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1786894883.6015038
+    },
+    "job_1786905088": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1786905088.4460123
+    },
+    "job_1786915839": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "assembling",
+        "created_at": 1786915839.5682206,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1787515593.8370874,
+        "updated_at": 1787515593.8370874
+    },
+    "job_1786926646": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1786926646.314285
+    },
+    "job_1786948259": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "audio_visuals",
+        "created_at": 1786948259.5543506,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1787515593.8370874,
+        "updated_at": 1787515593.8370874
+    },
+    "job_1786969827": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "assembling",
+        "created_at": 1786969827.9533098,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1787515593.8370874,
+        "updated_at": 1787515593.8370874
+    },
+    "job_1786980647": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1786980647.3501246
+    },
+    "job_1786991456": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1786991456.4432583
+    },
+    "job_1787056217": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1787056217.6990013
+    },
+    "job_1787067038": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1787067038.2140963
+    },
+    "job_1787075101": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1787075101.8234355
+    },
+    "job_1787076658": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1787076658.7429152
+    },
+    "job_1787110254": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "audio_visuals",
+        "created_at": 1787110254.3837786,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1787515593.8370874,
+        "updated_at": 1787515593.8370874
+    },
+    "job_1787121048": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "audio_visuals",
+        "created_at": 1787121048.9893413,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1787515593.8370874,
+        "updated_at": 1787515593.8370874
+    },
+    "job_1787131864": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1787131864.054852
+    },
+    "job_1787153436": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1787153436.299165
+    },
+    "job_1787157434": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1787157434.8719368
+    },
+    "job_1787164232": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1787164232.5590665
+    },
+    "job_1787196656": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "audio_visuals",
+        "created_at": 1787196656.6785474,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1787515593.8370874,
+        "updated_at": 1787515593.8370874
+    },
+    "job_1787218227": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1787218227.0633867
+    },
+    "job_1787239828": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "scripting",
+        "created_at": 1787239828.2207713,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1787515593.8370874,
+        "updated_at": 1787515593.8370874
+    },
+    "job_1787261454": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "audio_visuals",
+        "created_at": 1787261454.9517064,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1787515593.8370874,
+        "updated_at": 1787515593.8370874
+    },
+    "job_1787261643": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1787261643.616904
+    },
+    "job_1787326264": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1787326264.7109609
+    },
+    "job_1787358622": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "audio_visuals",
+        "created_at": 1787358623.0005057,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1787515593.8370874,
+        "updated_at": 1787515593.8370874
+    },
+    "job_1787359052": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1787359052.4951475
+    },
+    "job_1787401854": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "audio_visuals",
+        "created_at": 1787401854.9542398,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1787515593.8370874,
+        "updated_at": 1787515593.8370874
+    },
+    "job_1787402282": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1787402282.2902412
+    },
+    "job_1787412629": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1787412629.1730132
+    },
+    "job_1787445034": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "audio_visuals",
+        "created_at": 1787445034.8890066,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1787515593.8370874,
+        "updated_at": 1787515593.8370874
+    },
+    "job_1787445166": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1787445166.0992465
+    },
+    "job_1787466652": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "audio_visuals",
+        "created_at": 1787466652.5152128,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1787515593.8370874,
+        "updated_at": 1787515593.8370874
+    },
+    "job_1787467078": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1787467078.9725335
+    },
+    "job_1787477448": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1787477448.4897716
+    },
+    "job_1787488237": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "audio_visuals",
+        "created_at": 1787488237.2210062,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1787515593.8370874,
+        "updated_at": 1787515593.8370874
+    },
+    "job_1787499041": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "audio_visuals",
+        "created_at": 1787499041.360057,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1787515593.8370874,
+        "updated_at": 1787515593.8370874
+    },
+    "job_1787499172": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "audio_visuals",
+        "created_at": 1787499172.8279042,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1787515593.8370874,
+        "updated_at": 1787515593.8370874
+    },
+    "job_1787514819": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "audio_visuals",
+        "created_at": 1787514819.264344,
+        "error": "Interrupted test pipeline run; no active process",
+        "failed_at": 1787515604.0624363,
+        "updated_at": 1787515604.0624363
+    },
+    "job_1787515312": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1787515312.1304662
+    },
+    "job_1787520646798499203": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1787520646.7984986,
+        "updated_at": 1787521449.4020832,
+        "completed_at": 1787521449.4020832
+    },
+    "job_1787531453618332508": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "audio_visuals",
+        "created_at": 1787531453.6183312,
+        "updated_at": 1787563835.2183087,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1787563835.2183087
+    },
+    "job_1787531640844519170": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1787531640.8445182,
+        "updated_at": 1787532438.7632122,
+        "completed_at": 1787532438.7632122
+    },
+    "job_1787563835237781309": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1787563835.2377799,
+        "updated_at": 1787564645.2896113,
+        "completed_at": 1787564645.2896113
+    },
+    "job_1787585455601387660": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1787585455.6013868,
+        "updated_at": 1787586260.6285944,
+        "completed_at": 1787586260.6285944
+    },
+    "job_1787596265607806048": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1787596265.607804,
+        "updated_at": 1787597376.718712,
+        "completed_at": 1787597376.718712
+    },
+    "job_1787617822530144392": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "audio_visuals",
+        "created_at": 1787617822.5301435,
+        "updated_at": 1787640483.59996,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1787640483.59996
+    },
+    "job_1787618332336668746": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1787618332.3366673,
+        "updated_at": 1787619139.7232623,
+        "completed_at": 1787619139.7232623
+    },
+    "job_1787640483612074621": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1787640483.6120732,
+        "updated_at": 1787641195.48676,
+        "completed_at": 1787641195.48676
+    },
+    "job_1787676754494248426": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1787676754.4942477,
+        "updated_at": 1787677494.5774972,
+        "completed_at": 1787677494.5774972
+    },
+    "job_1787682717210979809": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "audio_visuals",
+        "created_at": 1787682717.2109787,
+        "updated_at": 1787693508.5956726,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1787693508.5956726
+    },
+    "job_1787683148356061260": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1787683148.3560603,
+        "updated_at": 1787684032.1309125,
+        "completed_at": 1787684032.1309125
+    },
+    "job_1787693508617574902": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1787693508.617573,
+        "updated_at": 1787694191.6326797,
+        "completed_at": 1787694191.6326797
+    },
+    "job_1787715084881418321": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "audio_visuals",
+        "created_at": 1787715084.8814168,
+        "updated_at": 1787725911.2886026,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1787725911.2886026
+    },
+    "job_1787725911303824063": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "audio_visuals",
+        "created_at": 1787725911.3038225,
+        "updated_at": 1787736634.0794654,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1787736634.0794654
+    },
+    "job_1787736634095336992": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1787736634.0953355,
+        "updated_at": 1787737462.5499077,
+        "completed_at": 1787737462.5499077
+    },
+    "job_1787747446966991385": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "audio_visuals",
+        "created_at": 1787747446.9669907,
+        "updated_at": 1787790701.947836,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1787790701.947836
+    },
+    "job_1787790701965429674": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "audio_visuals",
+        "created_at": 1787790701.9654288,
+        "updated_at": 1787835963.7190182,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1787835963.7190182
+    },
+    "job_1787791057159973675": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1787791057.1599727,
+        "updated_at": 1787791896.8915193,
+        "completed_at": 1787791896.8915193
+    },
+    "job_1787835963785144140": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1787835963.785142,
+        "updated_at": 1787817067.0094075,
+        "completed_at": 1787817067.0094075
+    },
+    "job_1787858891082453812": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1787858891.0824525,
+        "updated_at": 1787859812.3754644,
+        "completed_at": 1787859812.3754644
+    },
+    "job_1787877149346802456": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "audio_visuals",
+        "created_at": 1787877149.3468018,
+        "updated_at": 1787963447.4507623,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1787963447.4507623
+    },
+    "job_1787963447460008333": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "audio_visuals",
+        "created_at": 1787963447.4600072,
+        "updated_at": 1788025695.749002,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1788025695.749002
+    },
+    "job_1788025695766589216": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "qa_completed",
+        "created_at": 1788025695.766587,
+        "updated_at": 1788026739.770173,
+        "error": "Unable to find the server at youtube.googleapis.com",
+        "failed_at": 1788026739.770173
+    },
+    "job_1788050156343114681": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "audio_visuals",
+        "created_at": 1788050156.343114,
+        "updated_at": 1788136467.00557,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1788136467.00557
+    },
+    "job_1788050466781965052": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1788050466.7819643,
+        "updated_at": 1788051386.6174517,
+        "completed_at": 1788051386.6174517
+    },
+    "job_1788136467024405292": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "audio_visuals",
+        "created_at": 1788136467.0244043,
+        "updated_at": 1788191271.0292997,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1788191271.0292997
+    },
+    "job_1788136774402713256": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1788136774.4027123,
+        "updated_at": 1788137674.5643272,
+        "completed_at": 1788137674.5643272
+    },
+    "job_1788191271066421748": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1788191271.0664208,
+        "updated_at": 1788192241.097038,
+        "completed_at": 1788192241.097038
+    },
+    "job_1788222664024679978": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "audio_visuals",
+        "created_at": 1788222664.024678,
+        "updated_at": 1788309258.5380108,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1788309258.5380108
+    },
+    "job_1788222973092238962": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1788222973.0922377,
+        "updated_at": 1788223831.8352783,
+        "completed_at": 1788223831.8352783
+    },
+    "job_1788309258555894022": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "audio_visuals",
+        "created_at": 1788309258.555893,
+        "updated_at": 1788324771.9528735,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1788324771.9528735
+    },
+    "job_1788309573174010274": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1788309573.1740088,
+        "updated_at": 1788310410.1584191,
+        "completed_at": 1788310410.1584191
+    },
+    "job_1788324771963701996": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1788324771.9637005,
+        "updated_at": 1788325624.786557,
+        "completed_at": 1788325624.786557
+    },
+    "job_1788352581574251896": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1788352581.5742505,
+        "updated_at": 1788353415.2776763,
+        "completed_at": 1788353415.2776763
+    },
+    "job_1788454877159644729": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "qa_completed",
+        "created_at": 1788454877.159644,
+        "updated_at": 1788456083.3850398,
+        "error": "Fallback ratio too high: 100.0% (Limit: 30%)",
+        "failed_at": 1788456083.3850398
+    },
+    "job_1788492632004615585": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "audio_visuals",
+        "created_at": 1788492632.0046136,
+        "updated_at": 1788568251.2902744,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1788568251.2902744
+    },
+    "job_1788568251346015719": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "audio_visuals",
+        "created_at": 1788568251.3460126,
+        "updated_at": 1788622362.6498013,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1788622362.6498013
+    },
+    "job_1788568556923260062": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1788568556.9232588,
+        "updated_at": 1788569494.633502,
+        "completed_at": 1788569494.633502
+    },
+    "job_1788622362667600635": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "audio_visuals",
+        "created_at": 1788622362.6675978,
+        "updated_at": 1788866075.4346154,
+        "error": "Interrupted pipeline run recovered as stale",
+        "failed_at": 1788866075.4346154
+    },
+    "job_1788866075450016973": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1788866075.4500155,
+        "updated_at": 1788867100.8393648,
+        "completed_at": 1788867100.8393648
+    },
+    "job_1788984147554670977": {
+        "status": "complete",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "complete",
+        "created_at": 1788984147.5546696,
+        "updated_at": 1788965461.8206294,
+        "completed_at": 1788965461.8206294
+    },
+    "job_1789917392918202678": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "qa_completed",
+        "created_at": 1789917392.9182007,
+        "updated_at": 1789899350.4386911,
+        "error": "Fallback ratio too high: 100.0% (Limit: 30%)",
+        "failed_at": 1789899350.4386911
+    },
+    "job_1789898755027151177": {
+        "status": "failed",
+        "topic": "Auto-Generated Short",
+        "source": "pipeline",
+        "step": "qa_completed",
+        "created_at": 1789898755.02715,
+        "updated_at": 1789900861.9990673,
+        "error": "Fallback ratio too high: 100.0% (Limit: 30%)",
+        "failed_at": 1789900861.9990673
+    }
+}

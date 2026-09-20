@@ -1,0 +1,49 @@
+# Secrets & API keys
+.env
+*.env
+new api keys
+keys*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+*.egg-info/
+
+# Output files (large videos/audio)
+output/
+temp/
+*.mp4
+*.mp3
+*.wav
+*.jpg
+*.png
+*.webp
+*.ass
+*.srt
+
+# Logs
+*.log
+daily_log.txt
+manifest.json
+
+# IDE
+.vscode/
+.idea/
+
+# Large/partial media files
+*.part
+backgrounds/*.mp4
+assets/*.mp4
+
+# Agent/automation runtime files
+.botenv
+.botenv.bak
+.botlock
+.nonstop.pid
+token.pickle
+bot_queue/voice_*.ogg
+animate-shorts
+client_secrets.json

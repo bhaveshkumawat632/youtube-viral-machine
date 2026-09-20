@@ -1,0 +1,3 @@
+⚠️ URGENT ALERT [2026-07-29 21:33:57]
+QA Gate Failed: Fallback ratio too high: 41.4% (Limit: 30%) | UNSAFE SOURCE DETECTED: ai_image, ai_image, ai_image, ai_image
+Check daily_log.txt for details.

@@ -1,0 +1,11 @@
+Grok Bot got reverse-engineered just **15 days after launch** 👀
+
+And someone turned it into a multi-model coding shell.
+
+Claude Code, Codex, Cursor + OpenRouter — all in one workflow ⚡
+
+Plus existing plugins, MCP tools & local token tracking.
+
+Comment **“GROK”** for the repo 🚀
+
+#ai #grok #coding #opensource #developer
